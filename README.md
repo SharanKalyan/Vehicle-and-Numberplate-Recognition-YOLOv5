@@ -23,14 +23,10 @@ In the below image, you can see that the model was able to identify the type of 
 ![red](https://user-images.githubusercontent.com/20862520/147906666-4aa7f3c0-abc7-4bde-a773-404685f390f7.jpg)
 ![red](https://user-images.githubusercontent.com/20862520/147911514-262d3cca-8f0c-4a6e-981b-344904a2739b.jpg)
 
-
 Here, the Numberplate alone has been cropped seperately and will be passed to a 
 function that can extract text out of the image. Eg, pyTesseract, TesserOCR etc.
 
-
-
 ## Below are some more examples !
-
 
 ![Streets_Of_Chennai](https://user-images.githubusercontent.com/20862520/189132881-163fc0a8-0901-45fb-ab31-11b38538be57.gif)
 
