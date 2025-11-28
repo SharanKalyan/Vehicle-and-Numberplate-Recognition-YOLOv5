@@ -11,13 +11,13 @@ On foreign conditions, the model performed much better!
 
 We can also compress the NMS to a minimum threshold and therby reducing the clutter during the runtime! 
 
-## You can find more images / Outputs in the "Results" Directory
+# You can find more images / Outputs in the "Results" Directory
 
-**Foreign Roads - Abu Dhabi**
+### **Foreign Roads - Abu Dhabi**
 
 ![abudhabi](https://github.com/user-attachments/assets/e31a5464-d642-4fc9-9703-08f83d9d6abd)
 
-**Indian Roads**
+### **Indian Roads**
 
 In the below image, you can see that the model was able to identify the type of vehicle as well as the Numberplate on Indian Conditions.
 ![red](https://user-images.githubusercontent.com/20862520/147906666-4aa7f3c0-abc7-4bde-a773-404685f390f7.jpg)
