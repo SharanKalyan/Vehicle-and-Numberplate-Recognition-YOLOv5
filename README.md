@@ -1,10 +1,10 @@
 # Numberplate-Recognition-YOLOv5
 
-Collected around 2000 images of Vehicles and Annotated the Vehicles and their Numberplates using the LabelIMG.
-Trained the images using the YOLOv5L and this public repo consists of the samples of the data of which I tested the model.
+Collected more than 4000 images of Vehicles that are commonly seen across India and UAE, annotated the different types of vehicles (to identify the vehicle type) and their Numberplates / Liscence plates using LabelIMG.
+Trained the images using the YOLOv5L and this public repo consists of the samples of the data on which I tested the model's performance.
 
-The next step would be to crop the numberplates alone and extract the text out of them. This can be made with libraries like PyTesseract 
-Once text is extracted, we can compare that with the list of numberplates that are allowed inside a particular institution / org! 
+### The main goal is to automate vehicle access within a community.
+When a vehicle arrives at the entrance, the system captures an image of it. A model then identifies the vehicle type and detects its license plate. The license plate area is extracted, and OCR tools such as PyTesseract are used to read the text on the plate. Once the text is retrieved, it is compared against a database containing all authorized license plates to determine whether the vehicle is allowed to enter.
 
 The results are tested on Indian conditions where the number plates might not all be the same. We have lots of inconsistencies, yet the model was able to extract the liscense plates and the type of vehicle. 
 On foreign conditions, the model performed much better! 
