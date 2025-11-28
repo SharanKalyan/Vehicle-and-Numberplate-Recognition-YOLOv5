@@ -11,13 +11,13 @@ On foreign conditions, the model performed much better!
 
 We can also compress the NMS to a minimum threshold and therby reducing the clutter during the runtime! 
 
-# You can find more images / Outputs in the "Results" Directory
+## You can find more images / Outputs in the "Results" Directory
 
-### **Foreign Roads - Abu Dhabi**
+# **Foreign Roads - Abu Dhabi**
 
 ![abudhabi](https://github.com/user-attachments/assets/e31a5464-d642-4fc9-9703-08f83d9d6abd)
 
-### **Indian Roads**
+# **Indian Roads**
 
 In the below image, you can see that the model was able to identify the type of vehicle as well as the Numberplate on Indian Conditions.
 ![red](https://user-images.githubusercontent.com/20862520/147906666-4aa7f3c0-abc7-4bde-a773-404685f390f7.jpg)
@@ -27,7 +27,7 @@ The licenceplate was identified and the text is extracted out of the image
 ![red](https://user-images.githubusercontent.com/20862520/147911514-262d3cca-8f0c-4a6e-981b-344904a2739b.jpg)       -->     MH14DX5842
 
 
-## Below are some more examples !
+### Below are some more examples !
 
 ![Streets_Of_Chennai](https://user-images.githubusercontent.com/20862520/189132881-163fc0a8-0901-45fb-ab31-11b38538be57.gif)
 
