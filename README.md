@@ -17,6 +17,8 @@ We can also compress the NMS to a minimum threshold and therby reducing the clut
 
 ![abudhabi](https://github.com/user-attachments/assets/e31a5464-d642-4fc9-9703-08f83d9d6abd)
 
+![AbudhabiCorniche](https://github.com/user-attachments/assets/115f7277-d56b-449b-9433-74bc84088f50)
+
 # **Indian Roads**
 
 In the below image, you can see that the model was able to identify the type of vehicle as well as the Numberplate on Indian Conditions.
