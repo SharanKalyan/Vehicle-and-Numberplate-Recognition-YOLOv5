@@ -21,6 +21,11 @@ We can also compress the NMS to a minimum threshold and therby reducing the clut
 
 # **Indian Roads**
 
+![Streets_Of_Chennai](https://user-images.githubusercontent.com/20862520/189132881-163fc0a8-0901-45fb-ab31-11b38538be57.gif)
+
+
+![share](https://user-images.githubusercontent.com/20862520/149266907-0d5cc005-4ee5-4103-b003-91c6fd01db02.jpg)
+
 In the below image, you can see that the model was able to identify the type of vehicle as well as the Numberplate on Indian Conditions.
 ![red](https://user-images.githubusercontent.com/20862520/147906666-4aa7f3c0-abc7-4bde-a773-404685f390f7.jpg)
 
@@ -29,12 +34,6 @@ The licenceplate was identified and the text is extracted out of the image
 ![red](https://user-images.githubusercontent.com/20862520/147911514-262d3cca-8f0c-4a6e-981b-344904a2739b.jpg)       -->     MH14DX5842
 
 
-### Below are some more examples !
-
-![Streets_Of_Chennai](https://user-images.githubusercontent.com/20862520/189132881-163fc0a8-0901-45fb-ab31-11b38538be57.gif)
-
-
-![share](https://user-images.githubusercontent.com/20862520/149266907-0d5cc005-4ee5-4103-b003-91c6fd01db02.jpg)
 
 
 
