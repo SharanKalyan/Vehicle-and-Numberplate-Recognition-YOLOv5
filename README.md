@@ -7,7 +7,7 @@ Trained the YOLOv5L on those 5000 images and this public repo consists of the sa
 When a vehicle arrives at the entrance, the system captures an image of it. A model then identifies the vehicle type and detects its license plate. The license plate area is extracted, and OCR tools such as PyTesseract are used to read the text on the plate. Once the text is retrieved, it is compared against a database containing all authorized license plates to determine whether the vehicle is allowed to enter.
 
 The results are tested on Indian conditions where the number plates might not all be the same. We have lots of inconsistencies, yet the model was able to extract the liscense plates and the type of vehicle. 
-On foreign conditions, the model performed much better! 
+On foreign conditions, the model performed much better.
 
 We can also compress the NMS to a minimum threshold and therby reducing the clutter during the runtime! 
 
